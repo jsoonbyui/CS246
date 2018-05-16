@@ -1,3 +1,4 @@
 Here is a test.
 Here is an additional change.
 Here is a merge conflict.
+Here is a line.
